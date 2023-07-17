@@ -19,7 +19,6 @@ public class SnapshotApplication {
 		for (String str : argList) {
 			System.out.println(str);
 		}
-		System.out.println("Length of List: "+ argList.size());
+		System.out.println("Length of List: "+ argList.size()+2);
 	}
-
 }
